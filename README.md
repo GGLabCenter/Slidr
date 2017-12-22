@@ -1,5 +1,6 @@
 Slidr
 ================
+## READ THIS (!): this fork has been merged to its parent, so you can look at r0adkll/Slidr (the original one).
 
 ## Note 1 on this fork:
 https://github.com/r0adkll/Slidr/issues/45 solved here. (When using Horizontal)
